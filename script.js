@@ -1,10 +1,4 @@
-/* =========================================
-   SMART HOSTEL ROOM MANAGEMENT PORTAL
-   Main JavaScript File
-   ========================================= */
 
-
-/* ---------- PAGE LOADED ---------- */
 
 document.addEventListener("DOMContentLoaded", function () {
 
@@ -18,7 +12,6 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
-/* ---------- NAVIGATION ---------- */
 
 function setupNavigation() {
 
@@ -39,7 +32,6 @@ function setupNavigation() {
 }
 
 
-/* ---------- BUTTON INTERACTIONS ---------- */
 
 function setupButtons() {
 
@@ -58,7 +50,6 @@ function setupButtons() {
 }
 
 
-/* ---------- SERVICE CARDS ---------- */
 
 function setupServiceCards() {
 
@@ -75,7 +66,6 @@ function setupServiceCards() {
 }
 
 
-/* ---------- FORM VALIDATION ---------- */
 
 function setupForms() {
 
@@ -134,7 +124,6 @@ function setupForms() {
 }
 
 
-/* ---------- NOTIFICATION SYSTEM ---------- */
 
 function showNotification(message, type = "success") {
 
@@ -192,7 +181,6 @@ function showNotification(message, type = "success") {
 }
 
 
-/* ---------- ROOM STATUS ---------- */
 
 function getRoomStatus(availableBeds, totalBeds) {
 
@@ -209,7 +197,6 @@ function getRoomStatus(availableBeds, totalBeds) {
 }
 
 
-/* ---------- FEE CALCULATION ---------- */
 
 function calculatePendingFee(totalFee, paidFee) {
 
@@ -220,7 +207,6 @@ function calculatePendingFee(totalFee, paidFee) {
 }
 
 
-/* ---------- COMPLAINT STATUS ---------- */
 
 function getComplaintStatus(status) {
 
@@ -235,7 +221,6 @@ function getComplaintStatus(status) {
 }
 
 
-/* ---------- SIMPLE DATE FORMAT ---------- */
 
 function formatDate(date) {
 
@@ -251,9 +236,7 @@ function formatDate(date) {
     );
 
 }
-/* =========================================
-   ROOM ALLOCATION
-   ========================================= */
+
 
 function selectRoom(roomNumber) {
 
@@ -264,9 +247,7 @@ function selectRoom(roomNumber) {
     );
 
 }
-/* =========================================
-   FLOOR SELECTION
-   ========================================= */
+
 
 function openGroundFloor() {
 
@@ -290,9 +271,7 @@ function higherSemesterNotice(floor) {
     );
 
 }
-/* =========================================
-   COMPLAINT MANAGEMENT
-   ========================================= */
+
 
 document.addEventListener("DOMContentLoaded", function () {
 
@@ -421,9 +400,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
 });
-/* =========================================
-   FEE RECEIPT
-   ========================================= */
+
 
 document.addEventListener("DOMContentLoaded", function () {
 
@@ -560,9 +537,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
 });
-/* =========================================
-   MESS FEEDBACK
-   ========================================= */
+
 
 function messFeedback(rating) {
 
@@ -575,9 +550,7 @@ function messFeedback(rating) {
     console.log("Mess Feedback:", rating);
 
 }
-/* =========================================
-   MAINTENANCE REQUESTS
-   ========================================= */
+
 
 document.addEventListener("DOMContentLoaded", function () {
 
@@ -713,9 +686,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
 });
-/* =========================================
-   HOSTEL SERVICES
-   ========================================= */
+
 
 function requestService(serviceName) {
 
@@ -772,9 +743,7 @@ function requestService(serviceName) {
     );
 
 }
-/* =========================================
-   FLOOR SELECTION
-   ========================================= */
+ 
 
 function showHigherSemesterMessage(floorName) {
 

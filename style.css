@@ -4,7 +4,7 @@
    ========================================= */
 
 
-/* ---------- RESET ---------- */
+
 
 * {
     margin: 0;
@@ -502,7 +502,7 @@ footer .copyright {
 }
 
 
-/* ---------- FORM CONTAINER ---------- */
+ 
 
 .form-container {
     max-width: 950px;
@@ -513,7 +513,7 @@ footer .copyright {
 }
 
 
-/* ---------- FORM SECTIONS ---------- */
+
 
 .form-section {
     margin-bottom: 25px;
@@ -568,7 +568,7 @@ footer .copyright {
 }
 
 
-/* ---------- FORM GRID ---------- */
+
 
 .form-grid {
     display: grid;
@@ -594,7 +594,7 @@ footer .copyright {
 }
 
 
-/* ---------- INPUTS ---------- */
+
 
 .form-group input,
 .form-group select,
@@ -633,7 +633,7 @@ footer .copyright {
 }
 
 
-/* ---------- DECLARATION ---------- */
+
 
 .declaration {
     margin: 25px 0;
@@ -667,7 +667,7 @@ footer .copyright {
 }
 
 
-/* ---------- FORM ACTIONS ---------- */
+
 
 .form-actions {
     display: flex;
@@ -821,7 +821,7 @@ footer .copyright {
 }
 
 
-/* ---------- ROOM SUMMARY ---------- */
+
 
 .room-summary {
     display: grid;
@@ -895,7 +895,7 @@ footer .copyright {
 }
 
 
-/* ---------- ROOM SECTION ---------- */
+
 
 .room-section {
     padding: 30px;
@@ -927,7 +927,7 @@ footer .copyright {
 }
 
 
-/* ---------- LEGEND ---------- */
+
 
 .room-legend {
     display: flex;
@@ -971,7 +971,7 @@ footer .copyright {
 }
 
 
-/* ---------- ROOM GRID ---------- */
+
 
 .room-grid {
     display: grid;
@@ -1027,7 +1027,7 @@ footer .copyright {
 }
 
 
-/* ---------- ROOM STATUS COLOURS ---------- */
+
 
 .available-room {
     border-top: 4px solid #4D9F6D;
@@ -1057,7 +1057,7 @@ footer .copyright {
 }
 
 
-/* ---------- ROOM CONTENT ---------- */
+
 
 .room-bed {
     width: 55px;
@@ -1107,7 +1107,7 @@ footer .copyright {
 }
 
 
-/* ---------- ROOM BUTTON ---------- */
+
 
 .room-button {
     width: 100%;
@@ -1152,7 +1152,7 @@ footer .copyright {
 }
 
 
-/* ---------- ROOM NOTICE ---------- */
+
 
 .room-notice {
     margin-top: 25px;
@@ -1256,7 +1256,7 @@ footer .copyright {
 }
 
 
-/* ---------- COMPLAINT STATISTICS ---------- */
+
 
 .complaint-stats {
     display: grid;
@@ -1325,7 +1325,7 @@ footer .copyright {
 }
 
 
-/* ---------- TWO COLUMN LAYOUT ---------- */
+
 
 .complaint-layout {
     display: grid;
@@ -1338,7 +1338,7 @@ footer .copyright {
 }
 
 
-/* ---------- COMPLAINT FORM ---------- */
+
 
 .complaint-form-card {
     padding: 30px;
@@ -1375,7 +1375,7 @@ footer .copyright {
 }
 
 
-/* ---------- SAFETY CARD ---------- */
+
 
 .safety-card {
     padding: 30px;
@@ -1482,7 +1482,7 @@ footer .copyright {
 }
 
 
-/* ---------- TICKET CARD ---------- */
+
 
 .ticket-card {
     padding: 20px;
@@ -1668,7 +1668,7 @@ footer .copyright {
 }
 
 
-/* ---------- FEE OVERVIEW ---------- */
+
 
 .fee-overview {
     display: grid;
@@ -1733,7 +1733,7 @@ footer .copyright {
 }
 
 
-/* ---------- FEE SECTION ---------- */
+
 
 .fee-section {
     margin-bottom: 25px;
@@ -1780,7 +1780,7 @@ footer .copyright {
 }
 
 
-/* ---------- FEE TABLE ---------- */
+
 
 .fee-table {
     width: 100%;
@@ -1900,7 +1900,7 @@ footer .copyright {
 }
 
 
-/* ---------- PAYMENT HISTORY ---------- */
+
 
 .payment-history {
     display: flex;
@@ -1987,7 +1987,7 @@ footer .copyright {
 }
 
 
-/* ---------- PAYMENT DUE ---------- */
+
 
 .payment-due-card {
     padding: 30px;
@@ -2120,7 +2120,7 @@ footer .copyright {
 }
 
 
-/* ---------- MESS STATUS ---------- */
+
 
 .mess-status-card {
     padding: 25px 30px;
@@ -2197,7 +2197,7 @@ footer .copyright {
 }
 
 
-/* ---------- COMMON SECTION ---------- */
+
 
 .mess-section {
     padding: 30px;
@@ -2234,7 +2234,7 @@ footer .copyright {
 }
 
 
-/* ---------- MEAL CARDS ---------- */
+
 
 .meal-grid {
     display: grid;
@@ -2351,7 +2351,7 @@ footer .copyright {
 }
 
 
-/* ---------- MEAL TIMINGS ---------- */
+
 
 .timing-grid {
     display: grid;
@@ -2398,7 +2398,7 @@ footer .copyright {
 }
 
 
-/* ---------- FEEDBACK ---------- */
+
 
 .feedback-card {
     padding: 30px;
@@ -2481,7 +2481,7 @@ footer .copyright {
 }
 
 
-/* ---------- RESPONSIVE ---------- */
+
 
 @media (max-width: 1000px) {
 
@@ -2552,7 +2552,7 @@ footer .copyright {
 }
 
 
-/* ---------- OVERVIEW ---------- */
+
 
 .maintenance-overview {
     display: grid;
@@ -2623,7 +2623,7 @@ footer .copyright {
 }
 
 
-/* ---------- FORM LAYOUT ---------- */
+
 
 .maintenance-layout {
     display: grid;
@@ -2678,7 +2678,7 @@ footer .copyright {
 }
 
 
-/* ---------- CATEGORY CARD ---------- */
+
 
 .maintenance-category-card {
     padding: 30px;
@@ -2757,7 +2757,7 @@ footer .copyright {
 }
 
 
-/* ---------- REQUEST SECTION ---------- */
+
 
 .maintenance-section {
     padding: 30px;
@@ -2784,7 +2784,7 @@ footer .copyright {
 }
 
 
-/* ---------- REQUEST CARD ---------- */
+
 
 .maintenance-list {
     display: flex;
@@ -2875,7 +2875,7 @@ footer .copyright {
 }
 
 
-/* ---------- PRIORITY + STATUS ---------- */
+
 
 .request-meta {
     display: flex;
@@ -2935,7 +2935,7 @@ footer .copyright {
 }
 
 
-/* ---------- NOTE ---------- */
+
 
 .maintenance-note {
     padding: 20px 25px;
@@ -2972,7 +2972,7 @@ footer .copyright {
 }
 
 
-/* ---------- RESPONSIVE ---------- */
+
 
 @media (max-width: 1000px) {
 
@@ -3037,7 +3037,7 @@ footer .copyright {
 }
 
 
-/* ---------- SUMMARY ---------- */
+
 
 .services-summary {
     padding: 20px 24px;
@@ -3106,7 +3106,7 @@ footer .copyright {
 }
 
 
-/* ---------- SECTIONS ---------- */
+
 
 .services-section {
     padding: 23px 25px;
@@ -3130,7 +3130,7 @@ footer .copyright {
 }
 
 
-/* ---------- SERVICES GRID ---------- */
+
 
 .services-grid {
     display: grid;
@@ -3276,7 +3276,7 @@ footer .copyright {
 }
 
 
-/* ---------- REQUEST LIST ---------- */
+
 
 .service-request-list {
     display: flex;
@@ -3355,7 +3355,7 @@ footer .copyright {
 }
 
 
-/* ---------- HELP ---------- */
+
 
 .services-help {
     padding: 18px 22px;
@@ -3422,7 +3422,7 @@ footer .copyright {
 }
 
 
-/* ---------- RESPONSIVE ---------- */
+
 
 @media (max-width: 750px) {
 
@@ -3486,7 +3486,7 @@ footer .copyright {
 }
 
 
-/* ---------- SERVICES GRID ---------- */
+
 
 .services-grid {
     display: grid !important;
@@ -3496,7 +3496,7 @@ footer .copyright {
 }
 
 
-/* ---------- SERVICE CARD ---------- */
+
 
 .services-grid .service-card {
     display: block !important;
@@ -3525,7 +3525,7 @@ footer .copyright {
 }
 
 
-/* ---------- TOP ROW ---------- */
+
 
 .services-grid .service-card .service-card-top {
     display: flex !important;
@@ -3539,7 +3539,7 @@ footer .copyright {
 }
 
 
-/* ---------- ICON ---------- */
+
 
 .services-grid .service-icon {
     width: 42px !important;
@@ -3558,7 +3558,7 @@ footer .copyright {
 }
 
 
-/* ---------- STATUS ---------- */
+
 
 .services-grid .service-available {
     padding: 5px 9px;
@@ -3576,7 +3576,7 @@ footer .copyright {
 }
 
 
-/* ---------- TITLE ---------- */
+
 
 .services-grid .service-card h3 {
     display: block !important;
@@ -3593,7 +3593,7 @@ footer .copyright {
 }
 
 
-/* ---------- DESCRIPTION ---------- */
+
 
 .services-grid .service-card > p {
     display: block !important;
@@ -3612,7 +3612,7 @@ footer .copyright {
 }
 
 
-/* ---------- SERVICE INFO ---------- */
+
 
 .services-grid .service-info {
     width: 100% !important;
@@ -3637,7 +3637,7 @@ footer .copyright {
 }
 
 
-/* ---------- BUTTON ---------- */
+
 
 .services-grid .service-btn {
     display: block !important;
@@ -3674,7 +3674,7 @@ footer .copyright {
 }
 
 
-/* ---------- SECTION ---------- */
+
 
 .services-section {
     width: 100%;
@@ -3691,7 +3691,7 @@ footer .copyright {
 }
 
 
-/* ---------- DESKTOP SIZE ---------- */
+
 
 @media (min-width: 1100px) {
 
@@ -3702,7 +3702,7 @@ footer .copyright {
 }
 
 
-/* ---------- TABLET ---------- */
+
 
 @media (max-width: 900px) {
 
@@ -3713,7 +3713,7 @@ footer .copyright {
 }
 
 
-/* ---------- MOBILE ---------- */
+
 
 @media (max-width: 600px) {
 
@@ -3743,7 +3743,7 @@ footer .copyright {
 }
 
 
-/* ---------- FLOOR SECTION ---------- */
+
 
 .floor-section {
     padding: 28px;
@@ -3778,7 +3778,7 @@ footer .copyright {
 }
 
 
-/* ---------- FLOOR GRID ---------- */
+
 
 .floor-grid {
     display: grid;
@@ -3789,7 +3789,7 @@ footer .copyright {
 }
 
 
-/* ---------- FLOOR CARD ---------- */
+
 
 .floor-card {
     display: block;
@@ -3824,7 +3824,7 @@ footer .copyright {
 }
 
 
-/* ---------- ACTIVE FLOOR ---------- */
+
 
 .active-floor:hover {
     border-color: #AFC4B3;
@@ -3933,7 +3933,7 @@ footer .copyright {
 }
 
 
-/* ---------- LOCKED FLOORS ---------- */
+
 
 .locked-floor {
     opacity: 0.72;
@@ -3970,7 +3970,7 @@ footer .copyright {
 }
 
 
-/* ---------- RESPONSIVE ---------- */
+
 
 @media (max-width: 700px) {
 
@@ -4000,7 +4000,7 @@ footer .copyright {
 }
 
 
-/* Back to Floors */
+
 
 .back-room-link {
     display: inline-block;
@@ -4017,7 +4017,7 @@ footer .copyright {
 }
 
 
-/* Floor Header */
+
 
 .floor-room-header {
     background: #f5f1e7;
@@ -4050,7 +4050,7 @@ footer .copyright {
 }
 
 
-/* Room Legend */
+
 
 .room-legend-box {
     display: flex;
@@ -4088,14 +4088,14 @@ footer .copyright {
 }
 
 
-/* Room Section */
+
 
 .floor-room-section {
     width: 100%;
 }
 
 
-/* Room Grid */
+
 
 .floor-room-grid {
     display: grid;
@@ -4104,7 +4104,7 @@ footer .copyright {
 }
 
 
-/* Individual Room Card */
+
 
 .floor-room-grid .room-card {
     background: #fffdf8;
@@ -4121,7 +4121,7 @@ footer .copyright {
 }
 
 
-/* Room Top */
+
 
 .floor-room-grid .room-top {
     display: flex;
@@ -4146,7 +4146,7 @@ footer .copyright {
 }
 
 
-/* Bed Icon */
+
 
 .floor-room-grid .room-bed {
     width: 58px;
@@ -4161,7 +4161,7 @@ footer .copyright {
 }
 
 
-/* Room Text */
+
 
 .floor-room-grid .room-card h3 {
     margin: 0 0 5px;
@@ -4176,7 +4176,7 @@ footer .copyright {
 }
 
 
-/* Room Information */
+
 
 .floor-room-grid .room-info {
     display: flex;
@@ -4189,7 +4189,7 @@ footer .copyright {
 }
 
 
-/* Select Button */
+
 
 .floor-room-grid .room-button {
     width: 100%;
@@ -4211,7 +4211,7 @@ footer .copyright {
 }
 
 
-/* Room Notice */
+
 
 .floor-room-container .room-notice {
     margin-top: 28px;
